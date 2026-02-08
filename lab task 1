@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>
+            Portfolio
+        </title>
+    </head>
+    <body>
+        <h1>Portfolio</h1>
+        <h3>Personal Information :</h3>
+        
+
+        <P>Name:MD Rakibul Hasan </P>
+        <p>Department: Computer Science & Engineering (CSE)</p>
+        <p>University: American International University-Bangladesh </p>
+        <p>Email:  rkhasan427@gmail.com</p>
+        <p>Phone:01603149506 </p>
+        
+        
+        <h3>About Me :</h3>
+        <p>I am a Computer Science and Engineering (CSE) student currently in my 8th semester, with a strong academic background in programming and core computer science concepts. I have hands-on experience with programming languages such as C++, Java, and python My primary area of interest is Cybersecurity, and I am continuously developing my knowledge in security fundamentals, system concepts, and secure programming practices through coursework and self-learning. I am highly motivated to build a strong technical foundation and aim to pursue a professional career as a Cybersecurity Specialist in the technology sector.</p>
+
+        <h3>Education</h3>
+        <p>* BSc in Computer Science & Engineering Running</p>
+        <p>* HSC in Science</p>
+        <p>* SSC in Science</p>
+
+        <h3>Skills :</h3>
+       
+        <p>C++, Java, C#</p>
+        
+        
+        
+        <h3>Career Objective :</h3>
+        <p>To build a strong career in Cybersecurity where I can apply my knowledge, enhance my skills, and contribute to the growth of the organization.</p>
+        
+        
+       
+
+
+     </body>
+</html>
